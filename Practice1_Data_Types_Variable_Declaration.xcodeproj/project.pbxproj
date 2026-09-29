@@ -6,14 +6,81 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		FA550F4C306AD2AB00329030 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FA550F3A306AD2AB00329030 /* Assets.xcassets */; };
+		FA550F4D306AD2AB00329030 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FA550F34306AD2AB00329030 /* Assets.xcassets */; };
+		FA550F4E306AD2AB00329030 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FA550F40306AD2AB00329030 /* Assets.xcassets */; };
+		FA550F4F306AD2AB00329030 /* Lap2App.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA550F3C306AD2AB00329030 /* Lap2App.swift */; };
+		FA550F50306AD2AB00329030 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA550F35306AD2AB00329030 /* ContentView.swift */; };
+		FA550F51306AD2AB00329030 /* Mini_Project___Student_Academic_Management_SystemApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA550F42306AD2AB00329030 /* Mini_Project___Student_Academic_Management_SystemApp.swift */; };
+		FA550F52306AD2AB00329030 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA550F41306AD2AB00329030 /* ContentView.swift */; };
+		FA550F53306AD2AB00329030 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA550F3B306AD2AB00329030 /* ContentView.swift */; };
+		FA550F54306AD2AB00329030 /* Lap1App.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA550F36306AD2AB00329030 /* Lap1App.swift */; };
+		FA8FB7D1306AAF9A00166F2C /* Practice_03___Loop_StatementsApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA8FB7CB306AAF9A00166F2C /* Practice_03___Loop_StatementsApp.swift */; };
+		FA8FB7D2306AAF9A00166F2C /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA8FB7CA306AAF9A00166F2C /* ContentView.swift */; };
+		FA8FB7D3306AAF9A00166F2C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FA8FB7C9306AAF9A00166F2C /* Assets.xcassets */; };
+		FA8FB7E5306AAFB700166F2C /* Practice_02___Conditional_Statements___GuardApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA8FB7DF306AAFB700166F2C /* Practice_02___Conditional_Statements___GuardApp.swift */; };
+		FA8FB7E6306AAFB700166F2C /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA8FB7DE306AAFB700166F2C /* ContentView.swift */; };
+		FA8FB7E7306AAFB700166F2C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FA8FB7DD306AAFB700166F2C /* Assets.xcassets */; };
+		FA8FB7F9306AAFD000166F2C /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA8FB7F2306AAFD000166F2C /* ContentView.swift */; };
+		FA8FB7FA306AAFD000166F2C /* Practice_05___Functions___ClosuresApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA8FB7F3306AAFD000166F2C /* Practice_05___Functions___ClosuresApp.swift */; };
+		FA8FB7FB306AAFD000166F2C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FA8FB7F1306AAFD000166F2C /* Assets.xcassets */; };
+		FA8FB826306AAFF500166F2C /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA8FB81D306AAFF500166F2C /* ContentView.swift */; };
+		FA8FB827306AAFF500166F2C /* Practice_06___Struct___ClassApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA8FB818306AAFF500166F2C /* Practice_06___Struct___ClassApp.swift */; };
+		FA8FB828306AAFF500166F2C /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA8FB817306AAFF500166F2C /* ContentView.swift */; };
+		FA8FB829306AAFF500166F2C /* Practice_07___Optionals___Error_HandlingApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA8FB81E306AAFF500166F2C /* Practice_07___Optionals___Error_HandlingApp.swift */; };
+		FA8FB82A306AAFF500166F2C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FA8FB81C306AAFF500166F2C /* Assets.xcassets */; };
+		FA8FB82B306AAFF500166F2C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FA8FB816306AAFF500166F2C /* Assets.xcassets */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXFileReference section */
-		FA3395AB3064F28400AFDEA9 /* Practice1_Data_Types_Variable_Declaration.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Practice1_Data_Types_Variable_Declaration.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		FA550EFF306AD29400329030 /* Practice1_Data_Types_Variable_Declaration.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Practice1_Data_Types_Variable_Declaration.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		FA550F04306AD29400329030 /* Practice 04 — Collections.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; path = "Practice 04 — Collections.xcodeproj"; sourceTree = "<group>"; };
+		FA550F34306AD2AB00329030 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		FA550F35306AD2AB00329030 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		FA550F36306AD2AB00329030 /* Lap1App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lap1App.swift; sourceTree = "<group>"; };
+		FA550F38306AD2AB00329030 /* Lap1.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; path = Lap1.xcodeproj; sourceTree = "<group>"; };
+		FA550F3A306AD2AB00329030 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		FA550F3B306AD2AB00329030 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		FA550F3C306AD2AB00329030 /* Lap2App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lap2App.swift; sourceTree = "<group>"; };
+		FA550F3E306AD2AB00329030 /* Lap2.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; path = Lap2.xcodeproj; sourceTree = "<group>"; };
+		FA550F40306AD2AB00329030 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		FA550F41306AD2AB00329030 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		FA550F42306AD2AB00329030 /* Mini_Project___Student_Academic_Management_SystemApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Mini_Project___Student_Academic_Management_SystemApp.swift"; sourceTree = "<group>"; };
+		FA550F44306AD2AB00329030 /* Mini Project — Student Academic Management System.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; path = "Mini Project — Student Academic Management System.xcodeproj"; sourceTree = "<group>"; };
+		FA8FB7B9306AAF2C00166F2C /* Practice 04 — Collections.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; path = "Practice 04 — Collections.xcodeproj"; sourceTree = "<group>"; };
+		FA8FB7C9306AAF9A00166F2C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		FA8FB7CA306AAF9A00166F2C /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		FA8FB7CB306AAF9A00166F2C /* Practice_03___Loop_StatementsApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Practice_03___Loop_StatementsApp.swift"; sourceTree = "<group>"; };
+		FA8FB7CD306AAF9A00166F2C /* Practice 03 — Loop Statements.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; path = "Practice 03 — Loop Statements.xcodeproj"; sourceTree = "<group>"; };
+		FA8FB7DD306AAFB700166F2C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		FA8FB7DE306AAFB700166F2C /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		FA8FB7DF306AAFB700166F2C /* Practice_02___Conditional_Statements___GuardApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Practice_02___Conditional_Statements___GuardApp.swift"; sourceTree = "<group>"; };
+		FA8FB7E1306AAFB700166F2C /* Practice 02 — Conditional Statements & Guard.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; path = "Practice 02 — Conditional Statements & Guard.xcodeproj"; sourceTree = "<group>"; };
+		FA8FB7F1306AAFD000166F2C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		FA8FB7F2306AAFD000166F2C /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		FA8FB7F3306AAFD000166F2C /* Practice_05___Functions___ClosuresApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Practice_05___Functions___ClosuresApp.swift"; sourceTree = "<group>"; };
+		FA8FB7F5306AAFD000166F2C /* Practice 05 — Functions & Closures.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; path = "Practice 05 — Functions & Closures.xcodeproj"; sourceTree = "<group>"; };
+		FA8FB816306AAFF500166F2C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		FA8FB817306AAFF500166F2C /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		FA8FB818306AAFF500166F2C /* Practice_06___Struct___ClassApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Practice_06___Struct___ClassApp.swift"; sourceTree = "<group>"; };
+		FA8FB81A306AAFF500166F2C /* Practice 06 — Struct & Class.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; path = "Practice 06 — Struct & Class.xcodeproj"; sourceTree = "<group>"; };
+		FA8FB81C306AAFF500166F2C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		FA8FB81D306AAFF500166F2C /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		FA8FB81E306AAFF500166F2C /* Practice_07___Optionals___Error_HandlingApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Practice_07___Optionals___Error_HandlingApp.swift"; sourceTree = "<group>"; };
+		FA8FB820306AAFF500166F2C /* Practice 07 — Optionals & Error Handling.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; path = "Practice 07 — Optionals & Error Handling.xcodeproj"; sourceTree = "<group>"; };
+		FA8FB86A306AB61200166F2C /* Practice 04 — Collections.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; path = "Practice 04 — Collections.xcodeproj"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		FA3395AD3064F28400AFDEA9 /* Practice1_Data_Types_Variable_Declaration */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			path = Practice1_Data_Types_Variable_Declaration;
+			sourceTree = "<group>";
+		};
+		FA8FB7BA306AAF2C00166F2C /* Practice 04 — Collections */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "Practice 04 — Collections";
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
@@ -32,15 +99,245 @@
 		FA3395A23064F28400AFDEA9 = {
 			isa = PBXGroup;
 			children = (
+				FA550F39306AD2AB00329030 /* Lap1 */,
+				FA550F3F306AD2AB00329030 /* Lap2 */,
+				FA550F45306AD2AB00329030 /* Mini Project — Student Academic Management System */,
+				FA8FB81B306AAFF500166F2C /* Practice 06 — Struct & Class 2 */,
+				FA8FB821306AAFF500166F2C /* Practice 07 — Optionals & Error Handling 2 */,
+				FA8FB7BA306AAF2C00166F2C /* Practice 04 — Collections */,
 				FA3395AD3064F28400AFDEA9 /* Practice1_Data_Types_Variable_Declaration */,
-				FA3395AC3064F28400AFDEA9 /* Products */,
+				FA8FB7CE306AAF9A00166F2C /* Practice 03 — Loop Statements */,
+				FA8FB7E2306AAFB700166F2C /* Practice 02 — Conditional Statements & Guard */,
+				FA8FB7F6306AAFD000166F2C /* Practice 05 — Functions & Closures 2 */,
+				FA550EFF306AD29400329030 /* Practice1_Data_Types_Variable_Declaration.app */,
 			);
 			sourceTree = "<group>";
 		};
-		FA3395AC3064F28400AFDEA9 /* Products */ = {
+		FA550F05306AD29400329030 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				FA3395AB3064F28400AFDEA9 /* Practice1_Data_Types_Variable_Declaration.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		FA550F37306AD2AB00329030 /* Lap1 */ = {
+			isa = PBXGroup;
+			children = (
+				FA550F34306AD2AB00329030 /* Assets.xcassets */,
+				FA550F35306AD2AB00329030 /* ContentView.swift */,
+				FA550F36306AD2AB00329030 /* Lap1App.swift */,
+			);
+			path = Lap1;
+			sourceTree = "<group>";
+		};
+		FA550F39306AD2AB00329030 /* Lap1 */ = {
+			isa = PBXGroup;
+			children = (
+				FA550F37306AD2AB00329030 /* Lap1 */,
+				FA550F38306AD2AB00329030 /* Lap1.xcodeproj */,
+			);
+			path = Lap1;
+			sourceTree = "<group>";
+		};
+		FA550F3D306AD2AB00329030 /* Lap2 */ = {
+			isa = PBXGroup;
+			children = (
+				FA550F3A306AD2AB00329030 /* Assets.xcassets */,
+				FA550F3B306AD2AB00329030 /* ContentView.swift */,
+				FA550F3C306AD2AB00329030 /* Lap2App.swift */,
+			);
+			path = Lap2;
+			sourceTree = "<group>";
+		};
+		FA550F3F306AD2AB00329030 /* Lap2 */ = {
+			isa = PBXGroup;
+			children = (
+				FA550F3D306AD2AB00329030 /* Lap2 */,
+				FA550F3E306AD2AB00329030 /* Lap2.xcodeproj */,
+			);
+			path = Lap2;
+			sourceTree = "<group>";
+		};
+		FA550F43306AD2AB00329030 /* Mini Project — Student Academic Management System */ = {
+			isa = PBXGroup;
+			children = (
+				FA550F40306AD2AB00329030 /* Assets.xcassets */,
+				FA550F41306AD2AB00329030 /* ContentView.swift */,
+				FA550F42306AD2AB00329030 /* Mini_Project___Student_Academic_Management_SystemApp.swift */,
+			);
+			path = "Mini Project — Student Academic Management System";
+			sourceTree = "<group>";
+		};
+		FA550F45306AD2AB00329030 /* Mini Project — Student Academic Management System */ = {
+			isa = PBXGroup;
+			children = (
+				FA550F43306AD2AB00329030 /* Mini Project — Student Academic Management System */,
+				FA550F44306AD2AB00329030 /* Mini Project — Student Academic Management System.xcodeproj */,
+			);
+			path = "Mini Project — Student Academic Management System";
+			sourceTree = "<group>";
+		};
+		FA550F46306AD2AB00329030 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		FA550F48306AD2AB00329030 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		FA550F4A306AD2AB00329030 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		FA8FB7C4306AAF2C00166F2C /* Products */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		FA8FB7CC306AAF9A00166F2C /* Practice 03 — Loop Statements */ = {
+			isa = PBXGroup;
+			children = (
+				FA8FB7C9306AAF9A00166F2C /* Assets.xcassets */,
+				FA8FB7CA306AAF9A00166F2C /* ContentView.swift */,
+				FA8FB7CB306AAF9A00166F2C /* Practice_03___Loop_StatementsApp.swift */,
+			);
+			path = "Practice 03 — Loop Statements";
+			sourceTree = "<group>";
+		};
+		FA8FB7CE306AAF9A00166F2C /* Practice 03 — Loop Statements */ = {
+			isa = PBXGroup;
+			children = (
+				FA8FB7CC306AAF9A00166F2C /* Practice 03 — Loop Statements */,
+				FA8FB7CD306AAF9A00166F2C /* Practice 03 — Loop Statements.xcodeproj */,
+			);
+			path = "Practice 03 — Loop Statements";
+			sourceTree = "<group>";
+		};
+		FA8FB7CF306AAF9A00166F2C /* Products */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		FA8FB7E0306AAFB700166F2C /* Practice 02 — Conditional Statements & Guard */ = {
+			isa = PBXGroup;
+			children = (
+				FA8FB7DD306AAFB700166F2C /* Assets.xcassets */,
+				FA8FB7DE306AAFB700166F2C /* ContentView.swift */,
+				FA8FB7DF306AAFB700166F2C /* Practice_02___Conditional_Statements___GuardApp.swift */,
+			);
+			path = "Practice 02 — Conditional Statements & Guard";
+			sourceTree = "<group>";
+		};
+		FA8FB7E2306AAFB700166F2C /* Practice 02 — Conditional Statements & Guard */ = {
+			isa = PBXGroup;
+			children = (
+				FA8FB7E0306AAFB700166F2C /* Practice 02 — Conditional Statements & Guard */,
+				FA8FB7E1306AAFB700166F2C /* Practice 02 — Conditional Statements & Guard.xcodeproj */,
+			);
+			path = "Practice 02 — Conditional Statements & Guard";
+			sourceTree = "<group>";
+		};
+		FA8FB7E3306AAFB700166F2C /* Products */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		FA8FB7F4306AAFD000166F2C /* Practice 05 — Functions & Closures */ = {
+			isa = PBXGroup;
+			children = (
+				FA8FB7F1306AAFD000166F2C /* Assets.xcassets */,
+				FA8FB7F2306AAFD000166F2C /* ContentView.swift */,
+				FA8FB7F3306AAFD000166F2C /* Practice_05___Functions___ClosuresApp.swift */,
+			);
+			path = "Practice 05 — Functions & Closures";
+			sourceTree = "<group>";
+		};
+		FA8FB7F6306AAFD000166F2C /* Practice 05 — Functions & Closures 2 */ = {
+			isa = PBXGroup;
+			children = (
+				FA8FB7F4306AAFD000166F2C /* Practice 05 — Functions & Closures */,
+				FA8FB7F5306AAFD000166F2C /* Practice 05 — Functions & Closures.xcodeproj */,
+			);
+			path = "Practice 05 — Functions & Closures 2";
+			sourceTree = "<group>";
+		};
+		FA8FB811306AAFD800166F2C /* Products */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		FA8FB819306AAFF500166F2C /* Practice 06 — Struct & Class */ = {
+			isa = PBXGroup;
+			children = (
+				FA8FB816306AAFF500166F2C /* Assets.xcassets */,
+				FA8FB817306AAFF500166F2C /* ContentView.swift */,
+				FA8FB818306AAFF500166F2C /* Practice_06___Struct___ClassApp.swift */,
+			);
+			path = "Practice 06 — Struct & Class";
+			sourceTree = "<group>";
+		};
+		FA8FB81B306AAFF500166F2C /* Practice 06 — Struct & Class 2 */ = {
+			isa = PBXGroup;
+			children = (
+				FA8FB819306AAFF500166F2C /* Practice 06 — Struct & Class */,
+				FA8FB81A306AAFF500166F2C /* Practice 06 — Struct & Class.xcodeproj */,
+			);
+			path = "Practice 06 — Struct & Class 2";
+			sourceTree = "<group>";
+		};
+		FA8FB81F306AAFF500166F2C /* Practice 07 — Optionals & Error Handling */ = {
+			isa = PBXGroup;
+			children = (
+				FA8FB81C306AAFF500166F2C /* Assets.xcassets */,
+				FA8FB81D306AAFF500166F2C /* ContentView.swift */,
+				FA8FB81E306AAFF500166F2C /* Practice_07___Optionals___Error_HandlingApp.swift */,
+			);
+			path = "Practice 07 — Optionals & Error Handling";
+			sourceTree = "<group>";
+		};
+		FA8FB821306AAFF500166F2C /* Practice 07 — Optionals & Error Handling 2 */ = {
+			isa = PBXGroup;
+			children = (
+				FA8FB81F306AAFF500166F2C /* Practice 07 — Optionals & Error Handling */,
+				FA8FB820306AAFF500166F2C /* Practice 07 — Optionals & Error Handling.xcodeproj */,
+			);
+			path = "Practice 07 — Optionals & Error Handling 2";
+			sourceTree = "<group>";
+		};
+		FA8FB856306AAFF900166F2C /* Products */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		FA8FB858306AAFF900166F2C /* Products */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		FA8FB86B306AB61200166F2C /* Products */ = {
+			isa = PBXGroup;
+			children = (
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -62,12 +359,13 @@
 			);
 			fileSystemSynchronizedGroups = (
 				FA3395AD3064F28400AFDEA9 /* Practice1_Data_Types_Variable_Declaration */,
+				FA8FB7BA306AAF2C00166F2C /* Practice 04 — Collections */,
 			);
 			name = Practice1_Data_Types_Variable_Declaration;
 			packageProductDependencies = (
 			);
 			productName = Practice1_Data_Types_Variable_Declaration;
-			productReference = FA3395AB3064F28400AFDEA9 /* Practice1_Data_Types_Variable_Declaration.app */;
+			productReference = FA550EFF306AD29400329030 /* Practice1_Data_Types_Variable_Declaration.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -95,8 +393,54 @@
 			mainGroup = FA3395A23064F28400AFDEA9;
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
-			productRefGroup = FA3395AC3064F28400AFDEA9 /* Products */;
+			productRefGroup = FA3395A23064F28400AFDEA9;
 			projectDirPath = "";
+			projectReferences = (
+				{
+					ProductGroup = FA550F4A306AD2AB00329030 /* Products */;
+					ProjectRef = FA550F38306AD2AB00329030 /* Lap1.xcodeproj */;
+				},
+				{
+					ProductGroup = FA550F46306AD2AB00329030 /* Products */;
+					ProjectRef = FA550F3E306AD2AB00329030 /* Lap2.xcodeproj */;
+				},
+				{
+					ProductGroup = FA550F48306AD2AB00329030 /* Products */;
+					ProjectRef = FA550F44306AD2AB00329030 /* Mini Project — Student Academic Management System.xcodeproj */;
+				},
+				{
+					ProductGroup = FA8FB7E3306AAFB700166F2C /* Products */;
+					ProjectRef = FA8FB7E1306AAFB700166F2C /* Practice 02 — Conditional Statements & Guard.xcodeproj */;
+				},
+				{
+					ProductGroup = FA8FB7CF306AAF9A00166F2C /* Products */;
+					ProjectRef = FA8FB7CD306AAF9A00166F2C /* Practice 03 — Loop Statements.xcodeproj */;
+				},
+				{
+					ProductGroup = FA550F05306AD29400329030 /* Products */;
+					ProjectRef = FA550F04306AD29400329030 /* Practice 04 — Collections.xcodeproj */;
+				},
+				{
+					ProductGroup = FA8FB86B306AB61200166F2C /* Products */;
+					ProjectRef = FA8FB86A306AB61200166F2C /* Practice 04 — Collections.xcodeproj */;
+				},
+				{
+					ProductGroup = FA8FB7C4306AAF2C00166F2C /* Products */;
+					ProjectRef = FA8FB7B9306AAF2C00166F2C /* Practice 04 — Collections.xcodeproj */;
+				},
+				{
+					ProductGroup = FA8FB811306AAFD800166F2C /* Products */;
+					ProjectRef = FA8FB7F5306AAFD000166F2C /* Practice 05 — Functions & Closures.xcodeproj */;
+				},
+				{
+					ProductGroup = FA8FB856306AAFF900166F2C /* Products */;
+					ProjectRef = FA8FB81A306AAFF500166F2C /* Practice 06 — Struct & Class.xcodeproj */;
+				},
+				{
+					ProductGroup = FA8FB858306AAFF900166F2C /* Products */;
+					ProjectRef = FA8FB820306AAFF500166F2C /* Practice 07 — Optionals & Error Handling.xcodeproj */;
+				},
+			);
 			projectRoot = "";
 			targets = (
 				FA3395AA3064F28400AFDEA9 /* Practice1_Data_Types_Variable_Declaration */,
@@ -109,6 +453,14 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FA8FB7D3306AAF9A00166F2C /* Assets.xcassets in Resources */,
+				FA8FB82A306AAFF500166F2C /* Assets.xcassets in Resources */,
+				FA550F4C306AD2AB00329030 /* Assets.xcassets in Resources */,
+				FA550F4D306AD2AB00329030 /* Assets.xcassets in Resources */,
+				FA550F4E306AD2AB00329030 /* Assets.xcassets in Resources */,
+				FA8FB82B306AAFF500166F2C /* Assets.xcassets in Resources */,
+				FA8FB7E7306AAFB700166F2C /* Assets.xcassets in Resources */,
+				FA8FB7FB306AAFD000166F2C /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -119,6 +471,22 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FA8FB7D1306AAF9A00166F2C /* Practice_03___Loop_StatementsApp.swift in Sources */,
+				FA8FB7D2306AAF9A00166F2C /* ContentView.swift in Sources */,
+				FA8FB7E5306AAFB700166F2C /* Practice_02___Conditional_Statements___GuardApp.swift in Sources */,
+				FA8FB7F9306AAFD000166F2C /* ContentView.swift in Sources */,
+				FA8FB7FA306AAFD000166F2C /* Practice_05___Functions___ClosuresApp.swift in Sources */,
+				FA8FB7E6306AAFB700166F2C /* ContentView.swift in Sources */,
+				FA550F4F306AD2AB00329030 /* Lap2App.swift in Sources */,
+				FA550F50306AD2AB00329030 /* ContentView.swift in Sources */,
+				FA550F51306AD2AB00329030 /* Mini_Project___Student_Academic_Management_SystemApp.swift in Sources */,
+				FA550F52306AD2AB00329030 /* ContentView.swift in Sources */,
+				FA550F53306AD2AB00329030 /* ContentView.swift in Sources */,
+				FA550F54306AD2AB00329030 /* Lap1App.swift in Sources */,
+				FA8FB826306AAFF500166F2C /* ContentView.swift in Sources */,
+				FA8FB827306AAFF500166F2C /* Practice_06___Struct___ClassApp.swift in Sources */,
+				FA8FB828306AAFF500166F2C /* ContentView.swift in Sources */,
+				FA8FB829306AAFF500166F2C /* Practice_07___Optionals___Error_HandlingApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
