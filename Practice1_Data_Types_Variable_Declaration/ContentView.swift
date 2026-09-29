@@ -7,18 +7,30 @@
 
 import SwiftUI
 
-struct ContentView: View {
+struct PracticeOneView: View {
+    let name: String = "Chakriya"
+    let age: Int = 20
+    let height: Double = 1.54
+    let isStudent: Bool = true
+
     var body: some View {
-        VStack {
-            Image(systemName: "globe")
-                .imageScale(.large)
-                .foregroundStyle(.tint)
-            Text("Hello, world!")
+        VStack(spacing: 20) {
+            
+            Text("Practice 01")
+                .font(.largeTitle)
+                .bold()
+            
+            Text(" — Data Types & Variable Declaration")
+                .font(.headline)
+            
+            Divider()
+            
+            Text("Name: \(name)")
+            Text("Age: \(age)")
+            Text("Height: \(height)")
+            Text("Student: \(isStudent)")
+            
         }
         .padding()
     }
-}
-
-#Preview {
-    ContentView()
 }
